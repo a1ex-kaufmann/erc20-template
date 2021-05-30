@@ -1,0 +1,28 @@
+{
+  "name": "erc20-template",
+  "version": "1.0.0",
+  "description": "Tempalte project for simple erc20 token contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "truffle-plugin-verify": "^0.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexey-zhdanov/erc20-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexey-zhdanov/erc20-template/issues"
+  },
+  "homepage": "https://github.com/alexey-zhdanov/erc20-template#readme"
+}
